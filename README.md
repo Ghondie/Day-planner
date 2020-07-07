@@ -1,5 +1,13 @@
 #  Work Day Scheduler
 
+For this project i used moment.js to create a working scheduler.
+The app is deployed at  https://ghondie.github.io/Day-planner/
+The calander is saved in local storage refreshing daily.
+CURRENT time is displayed in white
+PAST time is displayed in yellow
+FUTURE time is displayed in green
+
+
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
